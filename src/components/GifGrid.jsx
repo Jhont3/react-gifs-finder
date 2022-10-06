@@ -1,7 +1,6 @@
 // import { useEffect, useState } from "react";
 import { useFetchGifs } from "../hooks/useFetchGifs";
 import { GitItem } from "./GitItem";
-// import { getGifs } from "../Helpers/getGifs";
 
 export const GifGrid = ({ category }) => {
  
