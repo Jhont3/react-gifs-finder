@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tarea Match con Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img />
+    <p>
+       
+       
+    </p>
+  </div>
+</div>
+`;

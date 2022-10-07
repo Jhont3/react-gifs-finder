@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Tarea Match con Snapshot 1`] = `
+<div>
+  <div
+    class="card"
+  >
+    <img
+      alt="Mi prueba"
+      src="https://a423432.com/"
+    />
+    <p>
+       
+      Mi prueba
+       
+    </p>
+  </div>
+</div>
+`;
